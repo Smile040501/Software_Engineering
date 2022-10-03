@@ -1,0 +1,3 @@
+[submodule "PlexShare"]
+	path = PlexShare
+	url = git@github.com:Smile040501/PlexShare.git
